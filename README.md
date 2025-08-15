@@ -1,1 +1,1 @@
-# Easy Python Quiz Game
+## Easy Python Quiz Game
